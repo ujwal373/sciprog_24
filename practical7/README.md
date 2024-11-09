@@ -1,25 +1,32 @@
 # Practical 7
 
-This folder contains the information about the Practical 2
+This folder contains the information about the Practical 7
 
 ## Compile
 
-* gcc Conversion.c ConversionC -lm
-* gcc Sum.c SumC -lm
+* gcc e.c  e -lm
+* gcc pointers.c pointers -lm
 
 ## Execute
 
-*./ConversionC
+*./e
 
 Output: 
 
-The number of digits is 25
-inum=33554431,  fnum=33554432.000000, inum in binary=1111111111111111111111111
+Enter the order of the series: 8
+5! is 120
+1.0000000000000000
+0.5000000000000000
+0.1666666666666667
+0.0416666666666667
+0.0083333333333333
+0.0013888888888889
+0.0001984126984127
+0.0000248015873016
+e is 2.71827876984127
 
-*./SumC
+*./pointers
 
 Output: 
 
- Sum1=7.485478
- Sum2=7.485472
- Difference between the two is 0.000007
+1 1 1 1 1
