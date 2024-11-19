@@ -1,6 +1,6 @@
 # Practical 8
 
-This folder contains the information about the Practical 7
+This folder contains the information about the Practical 8
 
 ## Compile
 
