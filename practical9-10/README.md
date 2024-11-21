@@ -8,24 +8,24 @@ This folder contains the information about the Practical 9 & 10
 
 ## Execute
 
-*./main
+* ./main
 
 Output: 
 
-Enter file name: magic.txt
-No. lines, 3
-M = 15
-This is magic!
+Enter file name: magic.txt <br>
+No. lines, 3 <br>
+M = 15 <br>
+This is magic! <br>
 
-## Execute again for not magic file
+## Execute again for not magic file <br>
 
-*./main
+* ./main
 
 Output: 
 
-Enter file name: notmagic.txt
-No. lines, 3
-M = 15
-Row 1 does not sum to 15 (row sum = 6).
-This is not magic
+Enter file name: notmagic.txt <br>
+No. lines, 3<br>
+M = 15<br>
+Row 1 does not sum to 15 (row sum = 6).<br>
+This is not magic<br>
 
