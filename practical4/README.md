@@ -8,7 +8,7 @@ This folder contains the information about the Practical 4
 
 ## Execute
 
-*./Practical4c
+* ./Practical4c
 
 Output: 
 
