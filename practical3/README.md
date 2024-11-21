@@ -8,7 +8,7 @@ This folder contains the information about the Practical 3
 
 ## Execute
 
-*./Practical3c
+* ./Practical3c
 
 Output: 
 
