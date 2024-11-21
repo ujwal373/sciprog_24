@@ -8,10 +8,10 @@ This folder contains the information about the Practical 8
 
 ## Execute
 
-*./GCD
+* ./GCD
 
 Output: 
 
-Enter two positive integers: 88 34
-GCD of 88 and 34 is 2
-GCD of 88 and 34 is 2
+Enter two positive integers: 88 34 <br>
+GCD of 88 and 34 is 2 <br>
+GCD of 88 and 34 is 2 <br>
