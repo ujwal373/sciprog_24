@@ -12,16 +12,16 @@ This folder contains the information about the Practical 4
 
 Output: 
 
-tan(0 degrees) = 0.000000
-tan(5 degrees) = 0.087489
-tan(10 degrees) = 0.176327
-tan(15 degrees) = 0.267949
-tan(20 degrees) = 0.363970
-tan(25 degrees) = 0.466308
-tan(30 degrees) = 0.577350
-tan(35 degrees) = 0.700208
-tan(40 degrees) = 0.839100
-tan(45 degrees) = 1.000000
-tan(50 degrees) = 1.191754
-tan(55 degrees) = 1.428148
-tan(60 degrees) = 1.732051
+tan(0 degrees) = 0.000000<br>
+tan(5 degrees) = 0.087489<br>
+tan(10 degrees) = 0.176327<br>
+tan(15 degrees) = 0.267949<br>
+tan(20 degrees) = 0.363970<br>
+tan(25 degrees) = 0.466308<br>
+tan(30 degrees) = 0.577350<br>
+tan(35 degrees) = 0.700208<br>
+tan(40 degrees) = 0.839100<br>
+tan(45 degrees) = 1.000000<br>
+tan(50 degrees) = 1.191754<br>
+tan(55 degrees) = 1.428148<br>
+tan(60 degrees) = 1.732051<br>
