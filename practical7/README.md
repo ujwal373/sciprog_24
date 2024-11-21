@@ -9,7 +9,7 @@ This folder contains the information about the Practical 7
 
 ## Execute
 
-*./e
+* ./e
 
 Output: 
 
