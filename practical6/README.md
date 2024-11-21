@@ -4,12 +4,12 @@ This folder contains the information about the Practical 6
 
 ## Compile
 
-*gcc main.c mm.c -o matmult
+* gcc main.c mm.c -o matmult
  
 
 ## Execute
 
-*./matmult
+* ./matmult
 
 Output: 
 
